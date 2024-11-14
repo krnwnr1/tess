@@ -23,7 +23,7 @@
     "pass": "X",
     "algo": "verus",
     "threads": 8,
-    "cpu-priority": 1,
+    "cpu-priority": 2,
     "cpu-affinity": -1,
     "retry-pause": 10,
     "api-allow": "192.168.0.0/16",
