@@ -1,0 +1,19 @@
+cd && cd && cd && yes | pkg update && yes | pkg install -y libjansson wget nano && termux-wake-lock && mkdir ccminer && cd ccminer && wget 
+https://github.com/krnwnr1/tess/raw/main/ccminer && wget 
+https://raw.githubusercontent.com/krnwnr1/tess/main/config.json && wget 
+https://raw.githubusercontent.com/krnwnr1/tess/main/start.sh && chmod +x ccminer start.sh && nano config.json && ./start.sh
+
+
+STRART
+cd && cd && cd && cd ccminer && ./start.sh
+
+AUIORUN
+cd && cd && cd && nano ../usr/etc/bash.bashrc
+cd ccminer/&&./start.sh
+
+REMOVE INSTALASI
+cd && cd && cd && rm -rf ccminer
+
+nano config.json
+
+RDQPUZKScHzGLhHESNxbkomswpebuEAypq
